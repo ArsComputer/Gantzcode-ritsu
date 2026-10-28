@@ -1,6 +1,6 @@
-## Hi there 👋
+# HAI 👋
 
-##Perkenalan
+## Perkenalan
 Namaku Yuganta dan aku adalah orang tertampan sedunia...
 <!-- ANJAS! -->
 
